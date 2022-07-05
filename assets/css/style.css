@@ -1,5 +1,6 @@
 body {
-  background-color: #e5e5e5;
+    background: linear-gradient(45deg, rgba(0,209,241,0.39677869438791147) 0%, rgba(10,9,121,0.3491596467688638) 50%);
+  /*background-color: #e5e5e5;
   /*background-image: url(../img/Maratona\ Explorer\ \ -\ 1400x900.png);*/
   color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
@@ -71,13 +72,13 @@ h1 {
 
 p {
   
-  width: 109px;
+  width: 300px;
   height: 27px;
   left: 629px;
   top: 230px;
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 150%;
   text-align: center;
   color: rgba(0, 8, 47, 0.8);
