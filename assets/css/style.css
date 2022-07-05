@@ -1,9 +1,9 @@
 body {
-    background: linear-gradient(45deg, rgba(0,209,241,0.39677869438791147) 0%, rgba(10,9,121,0.3491596467688638) 50%);
-  /*background-color: #e5e5e5;
-  /*background-image: url(../img/Maratona\ Explorer\ \ -\ 1400x900.png);*/
-  color: #FFFFFF;
-  font-family: 'Roboto', sans-serif;
+    background: rgb(0,209,241);
+    background: linear-gradient(56deg, rgba(0,209,241,0.39677869438791147) 0%, rgba(10,9,121,0.3491596467688638) 0%); 
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+  
     
 }
 
