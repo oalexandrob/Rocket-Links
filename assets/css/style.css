@@ -1,9 +1,8 @@
 body {
   background-color: #e5e5e5;
-  /*background-image: url(../img/Maratona\ Explorer\ \ -\ 1400x900.png);
-    color: #FFFFFF;
-    background-position: right top ;*/
-    font-family: 'Roboto', sans-serif;
+  /*background-image: url(../img/Maratona\ Explorer\ \ -\ 1400x900.png);*/
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
     
 }
 
@@ -27,26 +26,8 @@ ul a {
   color: #ffffff;
 }
 
-
-
-/* button {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 16px 80px;
-  gap: 10px;
-  width: 300px;
-  height: 53px;
-  background: #4263eb;
-  border-radius: 6px;
-  margin: 10px;
-  border: none;
-} */
-
 .imgPerfil {
   color: #4263eb;
-  /*position: absolute;*/
   width: 110px;
   height: 110px;
   left: 633px;
@@ -58,7 +39,7 @@ ul a {
 }
 
 img {
-  /*position: absolute;*/
+  
   width: 92.59px;
   height: 92.59px;
   left: 636.7px;
@@ -66,6 +47,12 @@ img {
   border-radius: 50%;
   padding: 5px;
   margin-bottom: 10px;
+  cursor: pointer;
+  transition: transform 200ms;
+}
+
+img:hover{
+    transform: scale(1.1)
 }
 
 h1 {
@@ -130,7 +117,6 @@ footer {
   height: 20px;
   left: calc(50% - 158px / 2);
   bottom: 395px;
-  /*font-family: "Roboto";*/
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
