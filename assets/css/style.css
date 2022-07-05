@@ -112,6 +112,8 @@ ul li a:hover {
     transform: scale(1.1)
 }
 
+
+
 footer {
   width: 158px;
   height: 20px;
@@ -129,3 +131,5 @@ footer a {
   text-decoration: none;
   color: rgba(0, 8, 47, 0.6);
 }
+
+
