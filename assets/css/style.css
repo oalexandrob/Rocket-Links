@@ -118,9 +118,7 @@ ul li a:hover {
 }
 
 footer {
-  width: 158px;
-  height: 20px;
-  left: calc(50% - 158px / 2);
+  
   bottom: 395px;
   font-style: normal;
   font-weight: 500;
